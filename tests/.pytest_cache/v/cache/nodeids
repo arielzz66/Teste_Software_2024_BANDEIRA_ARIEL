@@ -1,6 +1,7 @@
 [
   "test_blogger.py::TestBlogger::test_get_links",
   "test_blogger.py::TestBlogger::test_get_links_empty",
+  "test_blogger.py::TestBlogger::test_get_links_length",
   "test_blogger.py::TestBlogger::test_inherit",
   "test_blogger.py::TestBlogger::test_user_initialization"
 ]
